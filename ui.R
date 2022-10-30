@@ -130,7 +130,7 @@ dashboardPage(
               tags$h1("Github Link"),
               tags$div(
                 "If you are interested to develop this web further, ",
-                tags$a(href="https://github.com/isal-amir/", 
+                tags$a(href="https://github.com/isal-amir/top-500-movie", 
                        "click here to go to the repo of this work")
               ))
         ),
